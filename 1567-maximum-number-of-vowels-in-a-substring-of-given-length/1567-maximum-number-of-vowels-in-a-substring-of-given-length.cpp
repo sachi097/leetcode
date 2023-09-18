@@ -7,23 +7,23 @@ public:
     }
 
     int maxVowels(string s, int k) {
-       int i = 0, j = k, maxVowelLength = INT_MIN, vowelLength = 0;
+       int left = 0, right = k, maxVowelLength = INT_MIN, vowelLength = 0;
        for(auto m = 0; m < k; m++){
            if(checkVowel(s[m])){
                vowelLength++;
            }
        }
        maxVowelLength = max(maxVowelLength, vowelLength);
-       while(j < s.length()){
-           if(checkVowel(s[i])){
+       while(right < s.length()){
+           if(checkVowel(s[left])){
                vowelLength--;
            }
-           if(checkVowel(s[j])){
+           if(checkVowel(s[right])){
                vowelLength++;
            }
            maxVowelLength = max(maxVowelLength, vowelLength);
-           i++;
-           j++;
+           left++;
+           right++;
        }
        return maxVowelLength;
     }
