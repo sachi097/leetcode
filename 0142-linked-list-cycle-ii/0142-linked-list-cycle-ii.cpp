@@ -9,25 +9,20 @@
 class Solution {
 public:
 
-    ListNode *returnPointofContact(ListNode *head){
-        ListNode *slow = head;
-        ListNode *fast = head;
+    ListNode *detectCycle(ListNode *head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
         while(fast && slow && fast->next){
             slow = slow->next;
             fast = fast->next->next;
             if(slow == fast)
-                return slow;
+                break;
         }
-        return NULL;
-    }
-
-    ListNode *detectCycle(ListNode *head) {
-        ListNode *pointOfContact = returnPointofContact(head);
-        while(head && pointOfContact){
-            if(head == pointOfContact)
+        while(head && slow && slow->next){
+            if(head == slow)
                 return head;
             head = head->next;
-            pointOfContact = pointOfContact->next;
+            slow = slow->next;
         }
         return NULL;
     }
