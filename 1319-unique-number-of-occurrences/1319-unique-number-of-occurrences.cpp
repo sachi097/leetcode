@@ -10,10 +10,8 @@ public:
             hash[arr[i]]++;
         }
         for(auto el: hash){
-            if(set.find(el.second) != set.end())
-                return false;
             set.insert(el.second);
         }
-        return true;
+        return set.size() == hash.size() ? true : false;
     }
 };
