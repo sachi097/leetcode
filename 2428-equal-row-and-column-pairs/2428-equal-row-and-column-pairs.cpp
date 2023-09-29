@@ -4,18 +4,25 @@ public:
         unordered_map<string, int> hash;
         int count = 0;
         for(auto i = 0; i < grid.size(); i++){
-            string str = "";
+            string str = "(";
             for( auto j = 0; j < grid[0].size(); j++){
                 str += to_string(grid[i][j]) + "_";
             }
-            hash[str]++;
+            if(hash.count(str)){
+                hash[str]++;
+            }
+            else{
+                hash[str] = 1;
+            }
         }
         for(auto j = 0; j < grid[0].size(); j++){
-            string str = "";
+            string str = "(";
             for( auto i = 0; i < grid.size(); i++){
                 str += to_string(grid[i][j]) + "_";
             }
-            count+=hash[str];
+            if(hash.count(str)){
+                count+=hash[str];
+            }
         }
         return count;
     }
