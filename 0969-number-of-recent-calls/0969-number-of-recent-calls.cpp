@@ -1,16 +1,14 @@
 class RecentCounter {
 public:
     queue<int> requests;
-    int upperBound, lowerBound;
+    int lowerBound;
     RecentCounter() {
-        upperBound = 0;
         lowerBound = 0;
         while(!requests.empty())
             requests.pop();
     }
     
     int ping(int t) {
-        int upperBound = t;
         int lowerBound = t - 3000;
         requests.push(t);
         while(requests.front() < lowerBound)
