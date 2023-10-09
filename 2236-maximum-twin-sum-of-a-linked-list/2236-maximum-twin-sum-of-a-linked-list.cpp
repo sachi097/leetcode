@@ -16,7 +16,7 @@ public:
         stack<int> st;
         ListNode* slow = head;
         ListNode* fast = head;
-        int count = 0, maximum = INT_MIN;
+        int maximum = INT_MIN;
         while(fast && fast->next){
             st.push(slow->val);
             slow = slow->next;
