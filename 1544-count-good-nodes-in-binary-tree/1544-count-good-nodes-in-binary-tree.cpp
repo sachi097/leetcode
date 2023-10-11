@@ -13,13 +13,17 @@ class Solution {
 public:
 
     int findGoodNodes(TreeNode* root, int maximumSoFar, int goodNodesNum){
-        if(!root) return 0;
         if(root->val >= maximumSoFar){
             maximumSoFar = root->val;
             goodNodesNum++;
         }
-        int goodNodesOnLeft = findGoodNodes(root->left, maximumSoFar, 0);
-        int goodNodesOnRight = findGoodNodes(root->right, maximumSoFar, 0);
+        int goodNodesOnLeft = 0, goodNodesOnRight = 0;
+        if(root->left){
+           goodNodesOnLeft = findGoodNodes(root->left, maximumSoFar, 0);
+        }
+        if(root->right){
+            goodNodesOnRight = findGoodNodes(root->right, maximumSoFar, 0);
+        }
         return goodNodesNum + goodNodesOnLeft + goodNodesOnRight;
     }
 
