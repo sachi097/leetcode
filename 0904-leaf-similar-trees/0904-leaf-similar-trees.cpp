@@ -12,15 +12,12 @@
 class Solution {
 public:
     void findLeafSequence(TreeNode* root, vector<int>& leafSequence){
+        if(!root) return;
+        findLeafSequence(root->left, leafSequence);
+        findLeafSequence(root->right, leafSequence);
         if(!root->left && !root->right){
             leafSequence.push_back(root->val);
             return;
-        }
-        if(root->left){
-            findLeafSequence(root->left, leafSequence);
-        }
-        if(root->right){
-            findLeafSequence(root->right, leafSequence);
         }
     }
 
