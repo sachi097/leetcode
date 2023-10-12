@@ -11,23 +11,34 @@
  */
 class Solution {
 public:
-    int maxDepth = 0;
-    void findLongestZigZag(TreeNode* root, int depth, bool turnLeft){
-        if(!root) return;
-        if(turnLeft){
-            findLongestZigZag(root->left, depth + 1, false);
-            findLongestZigZag(root->right, 1, true); 
-        }
-        else{
-            findLongestZigZag(root->right, depth + 1, true);
-            findLongestZigZag(root->left, 1, false);
-        }
-        maxDepth = max(maxDepth, depth);
+
+unordered_map<TreeNode*, unordered_map<bool, int>> memo;  // Memoization table
+
+int findLongestZigZag(TreeNode* root, bool turnLeft) {
+    if (!root) return 0;
+
+    if (memo.find(root) != memo.end() && memo[root].find(turnLeft) != memo[root].end()) {
+        return memo[root][turnLeft];
     }
 
-    int longestZigZag(TreeNode* root) {
-        findLongestZigZag(root, 0, true); 
-        findLongestZigZag(root, 0, false);
-        return maxDepth;
+    int leftZigzag = 0, rightZigzag = 0;
+
+    if (turnLeft) {
+        if (root->left)
+            leftZigzag = 1 + findLongestZigZag(root->left, false);
+    } else {
+        if (root->right)
+            rightZigzag = 1 + findLongestZigZag(root->right, true);
     }
+
+    memo[root][turnLeft] = max(leftZigzag, rightZigzag);
+    return memo[root][turnLeft];
+}
+
+int longestZigZag(TreeNode* root) {
+    if (!root) return 0;
+    return max(findLongestZigZag(root, true), max(findLongestZigZag(root, false), max(longestZigZag(root->left), longestZigZag(root->right))));
+}
+
+
 };
