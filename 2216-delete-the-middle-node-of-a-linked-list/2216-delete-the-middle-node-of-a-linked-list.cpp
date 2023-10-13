@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
         if(!head || !head->next) return NULL;
         ListNode* slow = head;
         ListNode* fast = head;
