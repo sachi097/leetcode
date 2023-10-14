@@ -11,83 +11,30 @@
  */
 class Solution {
 public:
-    TreeNode* rootParentNode;
-    TreeNode* findReplacementNodeInRight(TreeNode* minNode){
-        TreeNode* parentNode = minNode;
-        while(minNode->left){
-            parentNode = minNode;
-            minNode = minNode->left;
-        }
-        if(parentNode != minNode){
-            parentNode->left = minNode->right;
-        }
-        return minNode;
-    }
-
-    TreeNode* findReplacementNodeInLeft(TreeNode* maxNode){
-        TreeNode* parentNode = maxNode;
-        while(maxNode->right){
-            parentNode = maxNode;
-            maxNode = maxNode->right;
-        }
-        if(parentNode != maxNode){
-            parentNode->right = maxNode->left;
-        }
-        return maxNode;
-    }
-
-    TreeNode* findNode(TreeNode* root, int key){
-        rootParentNode = root;
-        while(root){
-            if(root->val > key){
-                rootParentNode = root;
-                root = root->left;
-            }
-            else if(root->val < key){
-                rootParentNode = root;
-                root = root->right;
-            }
-            else{
-                return root;
-            }
-        }
-        return NULL;
-        // if(!root || root->val == key) return root;
-        // if(root->left && root->val > key){
-        //     return findNode(root->left,key);
-        // }
-        // else{
-        //    return findNode(root->right,key); 
-        // }
-    }
-
     TreeNode* deleteNode(TreeNode* root, int key) {
-        TreeNode* searchNode = findNode(root, key);
-        if(searchNode && searchNode == root && !searchNode->right && !searchNode->left) return NULL;
-        if(searchNode){
-            TreeNode* replacementNode;
-            if(searchNode->right){
-                replacementNode = findReplacementNodeInRight(searchNode->right);
-                if(replacementNode == searchNode->right){
-                    searchNode->right = replacementNode->right;
-                }
-                searchNode->val = replacementNode->val;
-            }
-            else if(searchNode->left){
-                replacementNode = findReplacementNodeInLeft(searchNode->left);
-                if(replacementNode == searchNode->left){
-                    searchNode->left = replacementNode->left;
-                }
-                searchNode->val = replacementNode->val;
-            }
+        if(root != NULL){
+            // If key is smaller than root->val, go left
+            if(key < root->val) 
+                root->left = deleteNode(root->left, key);
+            // If key is larger than root->val, go right  
+            else if(key > root->val) 
+                root->right = deleteNode(root->right, key);  
+            // If key == root->val     
             else{
-                if(rootParentNode->right == searchNode){
-                    rootParentNode->right = NULL;
-                }
-                else{
-                    rootParentNode->left = NULL;
-                }
-            }   
+                // For 0 child/ root is leaf node, return NULL
+                if(root->left == NULL && root->right == NULL) 
+                    return NULL; 
+                // For 1 child, return the child present
+                if (root->left == NULL || root->right == NULL)
+                    return root->left ? root->left : root->right; 
+                // For 2 children, find minimum of right side or maximum of left side
+                // and put that value in root
+                TreeNode* temp = root->left;
+                while(temp->right != NULL) 
+                    temp = temp->right; 
+                root->val = temp->val;     
+                root->left = deleteNode(root->left, temp->val); 
+            }
         }
         return root;
     }
