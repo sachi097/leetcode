@@ -3,11 +3,8 @@ public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n = rooms.size();
         vector<int> visited(n, 0);
-        visited[0] = 1;
         queue<int> keysQ;
-         for(auto key: rooms[0]){
-            keysQ.push(key);
-        }
+        keysQ.push(0);
         while(!keysQ.empty()){
             int nextRoom = keysQ.front();
             keysQ.pop();
@@ -20,10 +17,9 @@ public:
                 }
             }
         }
-        bool visitedAll = true;
         for(auto visitedRoom: visited){
-            visitedAll = visitedAll && visitedRoom;
+            if(!visitedRoom) return false;
         }
-        return visitedAll;
+        return true;
     }
 };
