@@ -16,26 +16,23 @@ public:
         vector<int> rightView;
         queue<TreeNode*> q;
         q.push(root);
-        q.push(NULL);
         TreeNode* currentNode, *prevNode;
-        while(q.size() > 1){
-            currentNode = q.front();
-            q.pop();
-            if(!currentNode){
-                rightView.push_back(prevNode->val);
-                q.push(NULL);
-            }
-            else{
+        while(!q.empty()){
+            int size = q.size();
+            for(int i=0; i<size; i++){
+                currentNode = q.front();
+                q.pop();
                 if(currentNode->left){
                     q.push(currentNode->left);
                 }
                 if(currentNode->right){
                     q.push(currentNode->right);
                 }
+                if(i==size-1){
+                    rightView.push_back(currentNode->val);
+                }
             }
-            prevNode = currentNode;
         }
-        rightView.push_back(prevNode->val);
         return rightView;
     }
 };
