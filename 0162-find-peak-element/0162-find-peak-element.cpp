@@ -18,6 +18,6 @@ public:
                 high = mid - 1;
             }
         }
-        return mid;
+        return -1;
     }
 };
