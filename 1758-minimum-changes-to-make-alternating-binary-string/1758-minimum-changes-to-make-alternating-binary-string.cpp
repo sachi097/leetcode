@@ -1,39 +1,25 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int result0 = 0, result1 = 0;
-        string t = s;
-        if(s[0] == '1'){
-            result0++;
-        }
-        s[0] = '0';
-        for(auto i=1; i<s.size(); i++){
-            if(s[i] == s[i-1]){
-                result0++;
-                if(s[i] == '0'){
-                    s[i] = '1';
+        int start0 = 0;
+        int start1 = 0;
+        
+        for (int i = 0; i < s.size(); i++) {
+            
+            if (i % 2 == 0) {
+                if (s[i] == '0') {
+                    start1++;
+                } else {
+                    start0++;
                 }
-                else{
-                    s[i] = '0'; 
-                }
-            }
-        }
-        s = t;
-        if(s[0] == '0'){
-            result1++;
-        }
-        s[0] = '1';
-        for(auto i=1; i<s.size(); i++){
-            if(s[i] == s[i-1]){
-                result1++;
-                if(s[i] == '0'){
-                    s[i] = '1';
-                }
-                else{
-                    s[i] = '0'; 
+            } else {
+                if (s[i] == '1') {
+                    start1++;
+                } else {
+                    start0++;
                 }
             }
         }
-        return min(result0, result1);
+        return min(start0, start1);
     }
 };
