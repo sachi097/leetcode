@@ -16,13 +16,35 @@ public:
             return 0;
         queue<TreeNode*> q;
         q.push(root);
-        int leftMostValue = INT_MIN;
-        while(!q.empty()){
-            auto queueLength = q.size();
-            for(auto i=0; i<queueLength; i++){
-                auto currentNode = q.front();
-                q.pop();
-                if(i == 0){
+        int leftMostValue = root->val, queueLength;
+        TreeNode *currentNode, *prevNode;
+        // level order traversal using for loop
+        // while(!q.empty()){
+        //     queueLength = q.size();
+        //     for(auto i=0; i<queueLength; i++){
+        //         currentNode = q.front();
+        //         q.pop();
+        //         if(i == 0){
+        //             leftMostValue = currentNode->val;
+        //         }
+        //         if(currentNode->left){
+        //             q.push(currentNode->left);
+        //         }
+        //         if(currentNode->right){
+        //             q.push(currentNode->right);
+        //         }
+        //     }
+        // }
+        // level order traversal using for null pointer to indicate level end
+        q.push(NULL);
+        while(q.size() > 1){
+            currentNode = q.front();
+            q.pop();
+            if(!currentNode){
+                q.push(NULL);
+            }
+            else{
+                if(!prevNode){
                     leftMostValue = currentNode->val;
                 }
                 if(currentNode->left){
@@ -30,8 +52,9 @@ public:
                 }
                 if(currentNode->right){
                     q.push(currentNode->right);
-                }
+                } 
             }
+            prevNode = currentNode;
         }
         return leftMostValue;
     }
