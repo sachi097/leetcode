@@ -2,7 +2,7 @@ class Solution {
 public:
     int bagOfTokensScore(vector<int>& tokens, int power) {
         sort(tokens.begin(), tokens.end());
-        int left = 0, right = tokens.size() - 1, score = 0;
+        int left = 0, right = tokens.size() - 1, score = 0, maxScore = 0;
         while(left<=right){
             if(tokens[left] <= power){
                 score++;
@@ -17,7 +17,8 @@ public:
             else{
                 break;
             }
+            maxScore = max(maxScore, score);
         }
-        return score;
+        return maxScore;
     }
 };
