@@ -20,6 +20,7 @@ public:
                 right--;
             }
         }
+        dfjkhfjkhgfghfj
         return right - left == 0 ? 1 : 0;
     }
 };
