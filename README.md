@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/sachi097/leetcode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/sachi097/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sachi097/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
@@ -105,5 +107,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/sachi097/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
