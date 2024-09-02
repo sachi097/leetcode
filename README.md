@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sachi097/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/sachi097/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sachi097/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
