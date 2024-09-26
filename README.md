@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/sachi097/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2155-find-missing-observations](https://github.com/sachi097/leetcode/tree/master/2155-find-missing-observations) |
 ## String
 |  |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sachi097/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sachi097/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -213,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/sachi097/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sachi097/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
