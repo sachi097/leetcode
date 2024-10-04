@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/sachi097/leetcode/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sachi097/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sachi097/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sachi097/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sachi097/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sachi097/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sachi097/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
