@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/sachi097/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/sachi097/leetcode/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/sachi097/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
