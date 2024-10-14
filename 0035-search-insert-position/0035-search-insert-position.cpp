@@ -2,7 +2,7 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
         int low = 0, high = nums.size() - 1, mid;
-        int lower_bound = -1;
+        int lower_bound = nums.size();;
         while(low <= high){
             mid = low + (high - low) / 2;
             if(nums[mid] >= target){
@@ -13,6 +13,6 @@ public:
                 low = mid + 1;
             }
         }
-        return lower_bound == -1 ? nums.size() : lower_bound;
+        return lower_bound;
     }
 };
