@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/sachi097/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sachi097/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sachi097/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sachi097/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -247,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/sachi097/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sachi097/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachi097/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -328,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
