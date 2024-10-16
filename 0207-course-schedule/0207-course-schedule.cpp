@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, int> indegree;
+        vector<int> indegree(numCourses, 0);
         unordered_map<int, vector<int>> adj;
         
         for(auto vec: prerequisites){
-            int u = vec[0];
-            int v = vec[1];
+            int v = vec[0];
+            int u = vec[1];
             
             indegree[v]++;
 
