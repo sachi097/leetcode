@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/sachi097/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/sachi097/leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachi097/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachi097/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sachi097/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sachi097/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sachi097/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachi097/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachi097/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sachi097/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachi097/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
