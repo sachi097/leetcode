@@ -1,23 +1,31 @@
 class Solution {
 public:
-    int maxUniqueSplit(string s) {
-        unordered_set<string> seen;
-        return backtrack(0, s, seen);
-    }
-private:
-    int backtrack(int start, const string& s, unordered_set<string>& seen) {
-        if (start == s.size()) {
-            return 0;
+    void solve(string& s, int i, unordered_set<string>& st, int currCount, int& maxCount) {
+        if(currCount + (s.length() - i) <= maxCount) { //Pruning for slight improvement
+            return;
         }
-        int maxSplits = 0;
-        for (int end = start + 1; end <= s.size(); ++end) {
-            string substring = s.substr(start, end - start);
-            if (seen.find(substring) == seen.end()) {
-                seen.insert(substring);
-                maxSplits = max(maxSplits, 1 + backtrack(end, s, seen));
-                seen.erase(substring);
+
+        if(i == s.length()) {
+            maxCount = max(maxCount, currCount);
+        }
+
+        for(int j = i; j < s.length(); j++) {
+            string sub = s.substr(i, j-i+1);
+            if(st.find(sub) == st.end()) {
+                // Backtracking Khandani Template
+                st.insert(sub); //Do
+                solve(s, j+1, st, currCount+1, maxCount); // Explore
+                st.erase(sub); // Undo
             }
         }
-        return maxSplits;
+    }
+
+    int maxUniqueSplit(string s) {
+        unordered_set<string> st;
+        int maxCount  = 0;
+        int currCount = 0;
+        solve(s, 0, st, currCount, maxCount);
+
+        return maxCount;
     }
 };
