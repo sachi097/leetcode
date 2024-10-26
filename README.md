@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sachi097/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sachi097/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sachi097/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sachi097/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
@@ -192,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sachi097/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sachi097/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
