@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1002-maximum-width-ramp](https://github.com/sachi097/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sachi097/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
