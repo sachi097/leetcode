@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sachi097/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/sachi097/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2803-modify-graph-edge-weights](https://github.com/sachi097/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
@@ -525,4 +528,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
