@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sachi097/leetcode/tree/master/0020-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sachi097/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
+| [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/sachi097/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
