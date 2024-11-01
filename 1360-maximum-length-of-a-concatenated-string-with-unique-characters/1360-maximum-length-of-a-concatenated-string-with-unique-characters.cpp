@@ -1,46 +1,50 @@
 class Solution {
 public:
-    unordered_map<string, int> mp;
-
-    int solve(int i, vector<string> &words, string ansString, unordered_set<char> st){
-        int n = words.size();
-        if(i == n){
-            return ansString.size();
+    bool hasCommon(string &s1, string& s2) {
+        int arr[26] = {0};
+        
+        for(char &ch : s1) {
+            if(arr[ch-'a'] > 0)
+                return true;
+            arr[ch-'a']++;
         }
-
-        if(mp.find(ansString) != mp.end()){
-            return mp[ansString];
+        
+        for(char &ch : s2) {
+            if(arr[ch-'a'] > 0)
+                return true;
         }
-
-        int excludeStringSize = solve(i+1, words, ansString, st);
-
-        int includeStringSize = words[i].size();
-        int currentLength = 0;
-        for(auto &ch: words[i]){
-            if(st.find(ch) != st.end()){
-                int j = 0;
-                while(j<currentLength){
-                    st.erase(words[i][j]);
-                    ansString.pop_back();
-                    j++;
-                }
-                includeStringSize = 0;
-                break;
-            }
-            st.insert(ch);
-            ansString += ch;
-            currentLength++;
-        }
-
-        includeStringSize = solve(i+1, words, ansString, st);
-
-        return mp[ansString] = max(excludeStringSize, includeStringSize);
-
+        
+        return false;
     }
-
+    
+    unordered_map<string, int> mp;
+    
+    int solve(int idx, vector<string>& arr, string temp, int n) {
+        if(idx >= n)
+            return temp.length();
+        
+        if(mp.find(temp) != mp.end())
+            return mp[temp];
+        
+        int include = 0;
+        int exclude = 0;
+        if(hasCommon(arr[idx], temp)) {
+            exclude = solve(idx+1, arr, temp, n);
+        } else {
+            exclude = solve(idx+1, arr, temp, n);
+            temp += arr[idx];
+            include = solve(idx+1, arr, temp, n);
+        }
+        
+        return mp[temp] = max(include, exclude);
+    }
+    
     int maxLength(vector<string>& arr) {
+        string temp = "";
         mp.clear();
-        unordered_set<char> st;
-        return solve(0, arr, "", st);
+        int n = arr.size();
+        
+        return solve(0, arr, temp, n);
+        
     }
 };
