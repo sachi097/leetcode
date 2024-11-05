@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
 | [0137-single-number-ii](https://github.com/sachi097/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/sachi097/leetcode/tree/master/0198-house-robber) |
