@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sachi097/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachi097/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/sachi097/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sachi097/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/sachi097/leetcode/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sachi097/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sachi097/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
