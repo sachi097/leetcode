@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/sachi097/leetcode/tree/master/3394-minimum-array-end) |
 ## Stack
 |  |
 | ------- |
