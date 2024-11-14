@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachi097/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachi097/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sachi097/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Binary Tree
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/sachi097/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sachi097/leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachi097/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
