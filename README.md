@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sachi097/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sachi097/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
