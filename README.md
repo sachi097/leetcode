@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/sachi097/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sachi097/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/sachi097/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachi097/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sachi097/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/sachi097/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachi097/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sachi097/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sachi097/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sachi097/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sachi097/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -649,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sachi097/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Minimum Spanning Tree
