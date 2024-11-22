@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/sachi097/leetcode/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/sachi097/leetcode/tree/master/1022-unique-paths-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sachi097/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
