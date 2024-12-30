@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/sachi097/leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/sachi097/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sachi097/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
