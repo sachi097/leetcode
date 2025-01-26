@@ -11,18 +11,29 @@
  */
 class Solution {
 public:
-    int findPathSum(TreeNode* root, int remainingSum, int path){
-        if(!root || remainingSum < -19999999) return 0;
-        if(root->val == remainingSum){
-            path++;
+    long answer = 0;
+    int mod = (1e9 + 7);
+    void kSumPaths(TreeNode* root, int k, long long prefixSum, unordered_map<long, long> &mp){
+        if(!root){
+            return;
         }
-        int leftPaths = findPathSum(root->left, remainingSum - root->val, 0);
-        int rightPaths = findPathSum(root->right, remainingSum - root->val, 0);
-        return path + leftPaths + rightPaths;
+        
+        prefixSum += root->val;
+        if(mp.find(prefixSum - k) != mp.end()){
+            answer = (answer + mp[prefixSum - k]) % mod;
+        }
+        
+        mp[prefixSum]++;
+        kSumPaths(root->left, k, prefixSum, mp);
+        kSumPaths(root->right, k, prefixSum, mp);
+        mp[prefixSum]--;
     }
 
     int pathSum(TreeNode* root, int targetSum) {
-        if(!root) return 0;
-        return findPathSum(root, targetSum, 0) + pathSum(root->left, targetSum) + pathSum(root->right, targetSum);
+        unordered_map<long, long> mp;
+        mp[0] = 1;
+        kSumPaths(root, targetSum, 0, mp);
+        return answer;
     }
 };
+        
