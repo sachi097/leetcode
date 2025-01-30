@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/sachi097/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sachi097/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sachi097/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/sachi097/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/sachi097/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -440,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
@@ -596,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
