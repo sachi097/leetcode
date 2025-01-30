@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sachi097/leetcode/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/sachi097/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sachi097/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/sachi097/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sachi097/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
