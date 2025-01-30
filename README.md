@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/sachi097/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sachi097/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/sachi097/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/sachi097/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sachi097/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -682,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/sachi097/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 ## Sliding Window
 |  |
 | ------- |
