@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sachi097/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachi097/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/sachi097/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/sachi097/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2580-circular-sentence](https://github.com/sachi097/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sachi097/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sachi097/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
