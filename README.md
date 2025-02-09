@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachi097/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/sachi097/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachi097/leetcode/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/sachi097/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sachi097/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachi097/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
