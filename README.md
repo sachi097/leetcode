@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
+| [0772-construct-quad-tree](https://github.com/sachi097/leetcode/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sachi097/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/sachi097/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
+| [0772-construct-quad-tree](https://github.com/sachi097/leetcode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0772-construct-quad-tree](https://github.com/sachi097/leetcode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sachi097/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/sachi097/leetcode/tree/master/0772-construct-quad-tree) |
 ## Bucket Sort
 |  |
 | ------- |
