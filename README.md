@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sachi097/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sachi097/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sachi097/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/sachi097/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sachi097/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sachi097/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -435,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sachi097/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
