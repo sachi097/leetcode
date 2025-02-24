@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sachi097/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sachi097/leetcode/tree/master/0064-minimum-path-sum) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sachi097/leetcode/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/sachi097/leetcode/tree/master/1022-unique-paths-iii) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
