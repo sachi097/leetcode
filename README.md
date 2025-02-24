@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sachi097/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sachi097/leetcode/tree/master/0214-shortest-palindrome) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sachi097/leetcode/tree/master/0077-combinations) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sachi097/leetcode/tree/master/0062-unique-paths) |
