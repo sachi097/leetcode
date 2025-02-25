@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/sachi097/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/sachi097/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sachi097/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sachi097/leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/sachi097/leetcode/tree/master/0089-gray-code) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/sachi097/leetcode/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/sachi097/leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sachi097/leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/sachi097/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sachi097/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sachi097/leetcode/tree/master/0260-single-number-iii) |
