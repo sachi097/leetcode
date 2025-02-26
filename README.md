@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/sachi097/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachi097/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sachi097/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sachi097/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sachi097/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sachi097/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/sachi097/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sachi097/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sachi097/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachi097/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sachi097/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/sachi097/leetcode/tree/master/2554-minimum-total-distance-traveled) |
