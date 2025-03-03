@@ -1,21 +1,24 @@
 class Solution {
     public int maxAbsoluteSum(int[] nums) {
-        int prefixSum = 0;
-        int minPrefixSum = 0;
-        int maxPrefixSum = 0;
-        int maxAbsoluteSum = 0;
-        
-        for (int i = 0; i < nums.length; i++) {
-            prefixSum += nums[i]; // Update prefix sum
-            // Update maxAbsoluteSum
-            maxAbsoluteSum = Math.max(maxAbsoluteSum, Math.abs(prefixSum - minPrefixSum));
-            maxAbsoluteSum = Math.max(maxAbsoluteSum, Math.abs(prefixSum - maxPrefixSum));
-            // Update minPrefixSum and maxPrefixSum
-            minPrefixSum = Math.min(minPrefixSum, prefixSum);
-            maxPrefixSum = Math.max(maxPrefixSum, prefixSum);
+        int n = nums.length;
+
+        int maxSum = nums[0];
+        int minSum = nums[0];
+
+        int currSumMax = nums[0];
+        int currSumMin = nums[0];
+
+        for (int i = 1; i < n; i++) {
+            //Kadane's Algo for finding max subarray sum
+            currSumMax = Math.max(nums[i], currSumMax + nums[i]);
+            maxSum = Math.max(maxSum, currSumMax);
+
+            //Kadane's Algo for finding min subarray sum
+            currSumMin = Math.min(nums[i], currSumMin + nums[i]);
+            minSum = Math.min(minSum, currSumMin);
         }
-        
-        return maxAbsoluteSum;
+
+        return Math.max(maxSum, Math.abs(minSum));
     
     }
 }
