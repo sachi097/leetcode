@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sachi097/leetcode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/sachi097/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sachi097/leetcode/tree/master/0729-my-calendar-i) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sachi097/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
@@ -520,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachi097/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachi097/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
@@ -538,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
