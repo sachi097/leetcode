@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sachi097/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/sachi097/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sachi097/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachi097/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachi097/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/sachi097/leetcode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sachi097/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sachi097/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/sachi097/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
 |  |
