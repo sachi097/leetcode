@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/sachi097/leetcode/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sachi097/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sachi097/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/sachi097/leetcode/tree/master/2868-continuous-subarrays) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/sachi097/leetcode/tree/master/3427-special-array-ii) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sachi097/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/sachi097/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sachi097/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sachi097/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
