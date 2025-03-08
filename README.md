@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachi097/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/sachi097/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sachi097/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sachi097/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachi097/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachi097/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachi097/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/sachi097/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
