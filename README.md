@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/sachi097/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sachi097/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sachi097/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/sachi097/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sachi097/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/sachi097/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/sachi097/leetcode/tree/master/2868-continuous-subarrays) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/sachi097/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Data Stream
 |  |
 | ------- |
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sachi097/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/sachi097/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Greedy
 |  |
 | ------- |
