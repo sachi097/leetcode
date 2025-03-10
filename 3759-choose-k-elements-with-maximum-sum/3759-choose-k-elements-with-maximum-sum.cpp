@@ -1,37 +1,43 @@
 class Solution {
 public:
-    typedef long long ll;
     vector<long long> findMaxSum(vector<int>& nums1, vector<int>& nums2, int k) {
-        int n = nums1.size();
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+        priority_queue<int, vector<int>, greater<int>> minSumHeap;
 
-        vector<vector<int>> vec(n); //vec[i] = {nums1[i], i, nums2[i]}
-        for(int i = 0; i < n; i++) { //O(n)
-            vec[i] = {nums1[i], i, nums2[i]};
+        for(int i=0; i<nums1.size(); i++){
+            minHeap.push({nums1[i], i});
         }
 
-        sort(begin(vec), end(vec)); //O(nlogn)
+        vector<long long> ans(nums1.size());
+        long long sum = 0;
 
-        vector<ll> result(n, 0);
-        priority_queue<int, vector<int>, greater<int>> pq;
-        ll sum = 0;
+        int prev = -1;
+        long long prevSum = 0;
 
-        for(int i = 0; i < n; i++) { //O(nlogk)
-            if(i > 0 && vec[i-1][0] == vec[i][0]) {
-                ll ans = result[vec[i-1][1]]; 
-                result[vec[i][1]] = ans;
-            } else {
-                result[vec[i][1]] = sum;
+        while(!minHeap.empty()){
+            pair<int, int> topEle = minHeap.top();
+            minHeap.pop();
+
+            if(prev == topEle.first){
+                ans[topEle.second] = prevSum;
+            }
+            else{
+                ans[topEle.second] = sum;
+                prevSum = sum;
             }
 
-            pq.push(vec[i][2]);
-            sum += vec[i][2];
-            if(pq.size() > k) {
-                sum -= pq.top();
-                pq.pop();
+            prev = topEle.first;
+            
+            sum += nums2[topEle.second];
+            minSumHeap.push(nums2[topEle.second]);
+
+            if(minSumHeap.size() > k){
+                sum -= minSumHeap.top();
+                minSumHeap.pop();
             }
+
         }
 
-        return result;
-
+        return ans;
     }
 };
