@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/sachi097/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sachi097/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sachi097/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/sachi097/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/sachi097/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sachi097/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sachi097/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/sachi097/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/sachi097/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sachi097/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2465-shifting-letters-ii](https://github.com/sachi097/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -691,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/sachi097/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/sachi097/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2465-shifting-letters-ii](https://github.com/sachi097/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/sachi097/leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sachi097/leetcode/tree/master/3643-zero-array-transformation-ii) |
