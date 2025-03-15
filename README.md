@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/sachi097/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/sachi097/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/sachi097/leetcode/tree/master/0214-shortest-palindrome) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachi097/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sachi097/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/sachi097/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachi097/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sachi097/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sachi097/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachi097/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sachi097/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sachi097/leetcode/tree/master/0264-ugly-number-ii) |
@@ -829,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -845,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/sachi097/leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/sachi097/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sachi097/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
