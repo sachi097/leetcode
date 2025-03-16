@@ -12,7 +12,7 @@ class Solution {
 
 
     public long repairCars(int[] ranks, int cars) {
-        long l = 1, h = Long.MAX_VALUE;
+        long l = 1, h = Arrays.stream(ranks).min().getAsInt() * (long) cars * (long) cars;
         long ans = h;
         while(l<=h){
             long mid = (l + h) / 2;
