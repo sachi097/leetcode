@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sachi097/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/sachi097/leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sachi097/leetcode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachi097/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -765,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sachi097/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sachi097/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sachi097/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/sachi097/leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachi097/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sachi097/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2803-modify-graph-edge-weights](https://github.com/sachi097/leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sachi097/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sachi097/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
@@ -818,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/sachi097/leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sachi097/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sachi097/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
 |  |
 | ------- |
