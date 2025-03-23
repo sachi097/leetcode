@@ -715,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sachi097/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sachi097/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sachi097/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/sachi097/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sachi097/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sachi097/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -802,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sachi097/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sachi097/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sachi097/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sachi097/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sachi097/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sachi097/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/sachi097/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Union Find
 |  |
@@ -966,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/sachi097/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachi097/leetcode/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sachi097/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sachi097/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Combinatorics
 |  |
