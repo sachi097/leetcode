@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sachi097/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/sachi097/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sachi097/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sachi097/leetcode/tree/master/0063-unique-paths-ii) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachi097/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sachi097/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sachi097/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
