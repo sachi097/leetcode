@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sachi097/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachi097/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachi097/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -609,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sachi097/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachi097/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachi097/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sachi097/leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sachi097/leetcode/tree/master/0056-merge-intervals) |
