@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/sachi097/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sachi097/leetcode/tree/master/0273-integer-to-english-words) |
+| [0472-concatenated-words](https://github.com/sachi097/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/sachi097/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/sachi097/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/sachi097/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/sachi097/leetcode/tree/master/0437-path-sum-iii) |
+| [0472-concatenated-words](https://github.com/sachi097/leetcode/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/sachi097/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachi097/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sachi097/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0472-concatenated-words](https://github.com/sachi097/leetcode/tree/master/0472-concatenated-words) |
 | [0491-non-decreasing-subsequences](https://github.com/sachi097/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachi097/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sachi097/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sachi097/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/sachi097/leetcode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/sachi097/leetcode/tree/master/0377-combination-sum-iv) |
+| [0472-concatenated-words](https://github.com/sachi097/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/sachi097/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/sachi097/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -937,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/sachi097/leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/sachi097/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sachi097/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/sachi097/leetcode/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sachi097/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sachi097/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
