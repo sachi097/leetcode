@@ -1,52 +1,41 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char,int> m;
-
-        if (s.size() < t.size()){
-            return "";
+        int n = s.length();
+        map<char, int> mp;
+        
+        for(char &ch : t) {
+            mp[ch]++;
         }
-
-        for (auto value:t){
-            m[value]++;
-        }
-
-        unordered_map<char,deque<int> > position;
-        set<int> sorted;
-        pair<int,int> res = {0,INT_MAX},initial;
-        initial = {0,INT_MAX};
-        for (int i = 0 ; i < s.size() ; i++){
-            if (m.find(s[i]) != m.end()){
+        
+        int requiredCount = t.length();
+        int i = 0, j  = 0;
+        int minStart  = 0;
+        int minWindow = INT_MAX;
+        while(j < n) {
+            char ch_j = s[j];
+            if(mp[ch_j] > 0)
+                requiredCount--;
+            
+            mp[ch_j]--;
+            
+            while(requiredCount == 0) { //try to shrink the window
+                if(minWindow > j-i+1) {
+                    minWindow = j-i+1;
+                    minStart  = i;
+                }
                 
-                position[s[i]].push_back(i);
-                sorted.insert(i);
-
-                //we have too much so remove stuff
-                if (m[s[i]] < position[s[i]].size()){
-                    int temp = position[s[i]].front();
-                    position[s[i]].pop_front();
-                    sorted.erase(temp);
-                }
-
-                if (sorted.size() == t.size()){
-                    if (res.second - res.first > i - *sorted.begin()){
-                        res = {*sorted.begin(),i};
-                        cout<<"res being updated\t"<<res.first<<"\t"<<res.second<<endl;
-                    }
-                }
+                char ch_i = s[i];
+                mp[ch_i]++;
+                if(mp[ch_i] > 0)
+                    requiredCount++;
+                i++;
             }
+            
+            j++; //Don't ever forget this :-)
         }
-        cout<<res.first<<"\t"<<res.second<<endl;
-        string ans;
-        if (res != initial){
-            ans = s.substr(res.first,res.second - res.first + 1);
-        }
-
-        else{
-            ans = "";
-        }
-
-        return ans;
+        
+        return minWindow == INT_MAX ? "" : s.substr(minStart, minWindow);
     }
 
 };
