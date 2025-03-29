@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sachi097/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sachi097/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sachi097/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/sachi097/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sachi097/leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sachi097/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sachi097/leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachi097/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sachi097/leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sachi097/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/sachi097/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
