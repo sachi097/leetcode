@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sachi097/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sachi097/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sachi097/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sachi097/leetcode/tree/master/0063-unique-paths-ii) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sachi097/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sachi097/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sachi097/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sachi097/leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/sachi097/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sachi097/leetcode/tree/master/0090-subsets-ii) |
