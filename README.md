@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sachi097/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sachi097/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sachi097/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sachi097/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sachi097/leetcode/tree/master/0089-gray-code) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sachi097/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sachi097/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sachi097/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sachi097/leetcode/tree/master/0273-integer-to-english-words) |
