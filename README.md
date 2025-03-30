@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0833-bus-routes](https://github.com/sachi097/leetcode/tree/master/0833-bus-routes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/sachi097/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sachi097/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/sachi097/leetcode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/sachi097/leetcode/tree/master/0787-sliding-puzzle) |
+| [0833-bus-routes](https://github.com/sachi097/leetcode/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/sachi097/leetcode/tree/master/0883-car-fleet) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sachi097/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/sachi097/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
+| [0833-bus-routes](https://github.com/sachi097/leetcode/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
