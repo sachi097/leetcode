@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sachi097/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachi097/leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/sachi097/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/sachi097/leetcode/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/sachi097/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sachi097/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/sachi097/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachi097/leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/sachi097/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/sachi097/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sachi097/leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/sachi097/leetcode/tree/master/0744-network-delay-time) |
@@ -1124,4 +1126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/sachi097/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sachi097/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
