@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/sachi097/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachi097/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sachi097/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sachi097/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/sachi097/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sachi097/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sachi097/leetcode/tree/master/0140-word-break-ii) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sachi097/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sachi097/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sachi097/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sachi097/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachi097/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachi097/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
