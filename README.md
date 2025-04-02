@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/sachi097/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sachi097/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sachi097/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sachi097/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/sachi097/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sachi097/leetcode/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/sachi097/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3427-special-array-ii](https://github.com/sachi097/leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sachi097/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sachi097/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/sachi097/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sachi097/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sachi097/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sachi097/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sachi097/leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/sachi097/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sachi097/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sachi097/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sachi097/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sachi097/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/sachi097/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -758,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachi097/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/sachi097/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/sachi097/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sachi097/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/sachi097/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
