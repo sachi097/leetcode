@@ -1,52 +1,81 @@
 class Solution {
 public:
-    vector<int> minimumCost(int N, vector<vector<int>>& edges, vector<vector<int>>& queries) {
-    vector<vector<int>> adj(N); // Adjacency list
-    vector<int> c(N, (1 << 30) - 1); // Cost array, initialized with maximum possible value
-    
-    // Construct adjacency list and update cost array
-    for (vector<int> edge : edges) {
-        int u = edge[0], v = edge[1], k = edge[2];
-        adj[u].push_back(v);
-        adj[v].push_back(u);
-        c[u] = c[u] & k; // Update cost with bitwise AND
-        c[v] = c[v] & k;
-    }
-    
-    // BFS to find connected components and update cost array for each component
-    queue<int> q;
-    vector<int> group(N, -1); // Group array to store component group of each vertex
-    for (int i = 0; i < N; i++) {
-        if (group[i] == -1) {
-            group[i] = i; // Assign component group ID
-            q.push(i);
-            while (!q.empty()) {
-                int u = q.front(); q.pop();
-                c[i] = c[i] & c[u]; // Update cost with bitwise AND of all vertices in the component
-                for (int v : adj[u]) {
-                    if (group[v] == -1) {
-                        group[v] = i;
-                        q.push(v);
-                    }
-                }
-            }
+    vector<int> parent;
+    vector<int> rank;
+
+    int find(int i){
+        if(parent[i] != i){
+            return parent[i] = find(parent[i]);
         }
+        return i;
     }
-    
-    // Process queries
-    vector<int> res;
-    for (vector<int> query : queries) {
-        int s = query[0], t = query[1];
-        if (s == t) {
-            res.push_back(0); // Same starting and ending vertex
-        } else {
-            if (group[s] == group[t]) {
-                res.push_back(c[group[s]]); // Same connected component
-            } else {
-                res.push_back(-1); // Different connected components
-            }
+
+    void unionDSU(int a, int b){
+        int parent_a = find(a);
+        int parent_b = find(b);
+
+        if(parent_a == parent_b){
+            return;
         }
+
+        if(rank[parent_a] > rank[parent_b]){
+            parent[parent_b] = parent_a;
+        }
+        else if(rank[parent_b] > rank[parent_b]){
+            parent[parent_a] = parent_b;
+        }
+        else{
+            parent[parent_b] = parent_a;
+            rank[parent_a]++;
+        }
+     }
+
+    vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
+        parent.resize(n);
+        rank.resize(n);
+
+        vector<int> cost(n, -1);
+
+        for(int i=0; i<n; i++){
+            parent[i] = i;
+            rank[i] = 1;
+        }
+
+        for(auto &edge: edges){
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
+
+            int parent_u = find(u); 
+            int parent_v = find(v);
+
+            if(parent_u != parent_v){
+                unionDSU(u, v);
+                cost[parent_u] &= cost[parent_v];
+            }
+
+            cost[parent_u] &= w;
+        }
+
+        vector<int> result(query.size(), -1);
+        int i = 0;
+        for(auto &q: query){
+            int src = q[0];
+            int dst = q[1];
+
+            if(src == dst){
+                result[i] = 0;
+                continue;
+            }
+
+            if(find(src) == find(dst)){
+                result[i] = cost[find(src)];
+            }
+
+            i++;
+        }
+
+        return result;
+
     }
-    return res;
-}
 };
