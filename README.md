@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sachi097/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sachi097/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sachi097/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sachi097/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/sachi097/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sachi097/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/sachi097/leetcode/tree/master/0833-bus-routes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sachi097/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sachi097/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -584,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/sachi097/leetcode/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/sachi097/leetcode/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/sachi097/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
