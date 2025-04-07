@@ -11,10 +11,13 @@ public class Solution {
         for (int i = 0; i < nums.length; i++) {
             for (int j = target; j >= nums[i]; j--) {
                 dp[j] = dp[j] || dp[j - nums[i]];
+                if(dp[target] == true){
+                    return true;
+                }
             }
         }
         
-        return dp[target];
+        return false;
     }
 
     private int sum(int[] nums) {
