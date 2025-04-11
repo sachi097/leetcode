@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/sachi097/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sachi097/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/sachi097/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2998-count-symmetric-integers](https://github.com/sachi097/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sachi097/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/sachi097/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sachi097/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1168,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sachi097/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachi097/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/sachi097/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
