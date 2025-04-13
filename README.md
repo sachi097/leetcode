@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sachi097/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sachi097/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sachi097/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/sachi097/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/sachi097/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachi097/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sachi097/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/sachi097/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sachi097/leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/sachi097/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/sachi097/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
