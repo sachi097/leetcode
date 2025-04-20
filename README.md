@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sachi097/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sachi097/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sachi097/leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sachi097/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sachi097/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sachi097/leetcode/tree/master/0045-jump-game-ii) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sachi097/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sachi097/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sachi097/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sachi097/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachi097/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sachi097/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sachi097/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sachi097/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachi097/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
