@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachi097/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sachi097/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/sachi097/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sachi097/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sachi097/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachi097/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachi097/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2294-minimum-time-to-complete-trips](https://github.com/sachi097/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sachi097/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sachi097/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sachi097/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/sachi097/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/sachi097/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -967,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sachi097/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2165-plates-between-candles](https://github.com/sachi097/leetcode/tree/master/2165-plates-between-candles) |
 | [2249-count-the-hidden-sequences](https://github.com/sachi097/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sachi097/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/sachi097/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sachi097/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/sachi097/leetcode/tree/master/3427-special-array-ii) |
@@ -1201,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sachi097/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sachi097/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/sachi097/leetcode/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sachi097/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sachi097/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sachi097/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sachi097/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
