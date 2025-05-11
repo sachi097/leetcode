@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sachi097/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/sachi097/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/sachi097/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/sachi097/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sachi097/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/sachi097/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/sachi097/leetcode/tree/master/1331-path-with-maximum-gold) |
