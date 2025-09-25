@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/sachi097/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/sachi097/leetcode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/sachi097/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/sachi097/leetcode/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sachi097/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sachi097/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -827,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sachi097/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/sachi097/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sachi097/leetcode/tree/master/0868-push-dominoes) |
+| [1028-interval-list-intersections](https://github.com/sachi097/leetcode/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachi097/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/sachi097/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -1348,4 +1350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sachi097/leetcode/tree/master/0149-max-points-on-a-line) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/sachi097/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
