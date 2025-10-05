@@ -1,5 +1,5 @@
 class Solution {
-    int dir[][] = {{0,1}, {0,-1}, {1,0}, {-1,0}};
+    int[][] dir = {{0,1}, {0,-1}, {1,0}, {-1,0}};
     public List<List<Integer>> pacificAtlantic(int[][] matrix) {
         List<List<Integer>> res = new ArrayList<>();
         if(matrix == null || matrix.length == 0 || matrix[0].length == 0) 
