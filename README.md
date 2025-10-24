@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sachi097/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachi097/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/sachi097/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/sachi097/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/sachi097/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sachi097/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sachi097/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachi097/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sachi097/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sachi097/leetcode/tree/master/0198-house-robber) |
