@@ -13,7 +13,7 @@ class Solution:
 
         result = []
         while max_heap:
-            result.append(abs(heapq.heappop(max_heap)[1]))
+            result.append(-heapq.heappop(max_heap)[1])
 
         result.sort()
 
