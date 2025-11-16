@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sachi097/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/sachi097/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1023-time-based-key-value-store](https://github.com/sachi097/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sachi097/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sachi097/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sachi097/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sachi097/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1023-time-based-key-value-store](https://github.com/sachi097/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sachi097/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sachi097/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sachi097/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachi097/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/sachi097/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sachi097/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1023-time-based-key-value-store](https://github.com/sachi097/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sachi097/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/sachi097/leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sachi097/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -766,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sachi097/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sachi097/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/sachi097/leetcode/tree/master/0859-design-circular-deque) |
+| [1023-time-based-key-value-store](https://github.com/sachi097/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sachi097/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sachi097/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1722-throne-inheritance](https://github.com/sachi097/leetcode/tree/master/1722-throne-inheritance) |
